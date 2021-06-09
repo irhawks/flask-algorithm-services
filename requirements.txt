@@ -1,0 +1,6 @@
+tensorflow-cpu
+opencv-python==4.2.0.32
+keras>=2.2.4
+numpy>=1.14.6
+
+hanlp[full]
